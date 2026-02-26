@@ -50,6 +50,8 @@ berikut.
 Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga semua
 link pada navigasi header dapat menampilkan tampilan dengan layout yang sama.
 
-Dan Untuk Hasilnya
+Dan Untuk Menjalankan Program nya Ketik
 
-![gambar](
+`php spark serve`
+
+![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/73a0d1377e67554490b1199f8cf1894cd2e88b78/image/Screenshot%20from%202026-02-26%2011-24-25.png)
