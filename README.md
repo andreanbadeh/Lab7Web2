@@ -37,3 +37,8 @@ $routes->get('/about', 'Page::about');
 $routes->get('/contact', 'Page::contact');
 $routes->get('/faqs', 'Page::faqs');
 ```
+
+Untuk route yang ditambahkan sudah benar, buka CLI dan jalankan perintah
+berikut.
+
+`php spark routes`
