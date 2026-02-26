@@ -14,3 +14,9 @@ Masukkan Perintah `php spark`
 # Struktur Direktori
 
 ![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/cc8f4452fb1945e64df4c32833cc6d390c37f511/image/Screenshot%20from%202026-02-26%2011-18-21.png)
+
+# Routing dan Controller
+
+Router Terletak Pada File app/config/Routes.php
+
+![gambar]
