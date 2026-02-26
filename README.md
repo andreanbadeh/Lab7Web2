@@ -44,3 +44,12 @@ berikut.
 `php spark routes`
 
 ![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/28a7514f69b3d78aaa7cb1a1d2c4d2e812f5760e/image/Screenshot%20from%202026-02-26%2011-26-05.png)
+
+# Pertanyaan dan Tugas
+
+Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga semua
+link pada navigasi header dapat menampilkan tampilan dengan layout yang sama.
+
+Dan Untuk Hasilnya
+
+![gambar](
