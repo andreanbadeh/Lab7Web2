@@ -55,3 +55,7 @@ Dan Untuk Menjalankan Program nya Ketik
 `php spark serve`
 
 ![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/73a0d1377e67554490b1199f8cf1894cd2e88b78/image/Screenshot%20from%202026-02-26%2011-24-25.png)
+
+Dan Ini Untuk Hasil Nya
+
+![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/11ed177e2bd7e55b7178998039292c692c8fa45c/image/Screenshot%20from%202026-02-26%2011-29-00.png)
