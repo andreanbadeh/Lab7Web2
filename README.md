@@ -20,3 +20,20 @@ Masukkan Perintah `php spark`
 Router Terletak Pada File app/config/Routes.php
 
 ![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/39b7ea72bec4a82f0e0be65023fcdb1cfbc934e5/image/Screenshot%20from%202026-02-26%2011-20-38.png)
+
+# Membuat Route Baru.
+
+Tambahkan kode berikut di dalam Routes.php
+```
+<?php
+
+use CodeIgniter\Router\RouteCollection;
+
+/**
+ * @var RouteCollection $routes
+ */
+$routes->get('/', 'Home::index');
+$routes->get('/about', 'Page::about');
+$routes->get('/contact', 'Page::contact');
+$routes->get('/faqs', 'Page::faqs');
+```
