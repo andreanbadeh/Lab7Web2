@@ -19,7 +19,7 @@ Masukkan Perintah `php spark`
 
 Router Terletak Pada File app/config/Routes.php
 
-![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/39b7ea72bec4a82f0e0be65023fcdb1cfbc934e5/image/Screenshot%20from%202026-02-26%2011-20-38.png)
+![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/a1288c0b3f6cb4ec38b9a7a1b45070134a91404a/image/Screenshot%20from%202026-04-03%2018-40-20.png)
 
 # Membuat Route Baru.
 
