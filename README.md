@@ -72,7 +72,7 @@ Dan Untuk Menjalankan Program nya Ketik
 
 Dan Ini Untuk Hasil Login
 
-![gambar](
+![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/2a88f65fe625cb9c49d55bdac716ffe724b1e802/image/Screenshot%20from%202026-04-03%2019-01-33.png)
 
 # Artikel
 
