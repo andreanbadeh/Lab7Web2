@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2ec5d042-64b8-4d31-a3dd-cf95796e0672" /># Praktikum 1-4 PHP Framework (Codeigniter)
+# Praktikum 1-4 PHP Framework (Codeigniter)
 NAMA : ANDREAN PUTRA ARYA
 
 NIM : 312410341
@@ -76,4 +76,4 @@ Dan Ini Untuk Hasil Login
 
 # Artikel
 
-![gambar](
+![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/c0813c99662edd5c67c9366af0b0555ca5fdc059/image/Screenshot%20from%202026-04-03%2018-58-54.png)
