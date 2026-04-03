@@ -85,3 +85,7 @@ Dan Ini Untuk Hasil Login
 # Menu Kontak
 
 ![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/ad50ca30bdfdbe42c06da1cbdd4725018a4afa2d/image/Screenshot%20from%202026-04-03%2019-02-59.png)
+
+# Menu Faqs
+
+![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/6b4480aa85b5d4d7ac49cfc32ae5edc824e8bcca/image/Screenshot%20from%202026-04-03%2019-03-03.png)
