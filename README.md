@@ -74,6 +74,11 @@ Dan Ini Untuk Hasil Login
 
 ![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/2a88f65fe625cb9c49d55bdac716ffe724b1e802/image/Screenshot%20from%202026-04-03%2019-01-33.png)
 
-# Artikel
+# Menu Artikel
 
 ![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/c0813c99662edd5c67c9366af0b0555ca5fdc059/image/Screenshot%20from%202026-04-03%2018-58-54.png)
+
+# Menu About
+
+![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/963b0b1d733bbf5219950cb456fe87700fec0f3f/image/Screenshot%20from%202026-04-03%2019-02-31.png)
+
