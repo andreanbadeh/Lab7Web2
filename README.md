@@ -59,7 +59,7 @@ berikut.
 
 ![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/28a7514f69b3d78aaa7cb1a1d2c4d2e812f5760e/image/Screenshot%20from%202026-02-26%2011-26-05.png)
 
-# Pertanyaan dan Tugas
+# Pertanyaan dan Tugas 1-4
 
 Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga semua
 link pada navigasi header dapat menampilkan tampilan dengan layout yang sama.
@@ -72,4 +72,4 @@ Dan Untuk Menjalankan Program nya Ketik
 
 Dan Ini Untuk Hasil Nya
 
-![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/11ed177e2bd7e55b7178998039292c692c8fa45c/image/Screenshot%20from%202026-02-26%2011-29-00.png)
+![gambar](
