@@ -1,4 +1,4 @@
-# Praktikum PHP Framework (Codeigniter)
+# Praktikum 1-4 PHP Framework (Codeigniter)
 NAMA : ANDREAN PUTRA ARYA
 
 NIM : 312410341
