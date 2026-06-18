@@ -76,7 +76,7 @@ Dan Ini Untuk Hasil Login
 
 # Menu Artikel
 
-![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/c0813c99662edd5c67c9366af0b0555ca5fdc059/image/Screenshot%20from%202026-04-03%2018-58-54.png)
+![gambar](https://github.com/andreanbadeh/Lab7Web2/blob/100f7f223f6c441fd38cc75a39dc856e878cbee1/image/Screenshot%20From%202026-06-18%2019-40-22.png)
 
 # Menu About
 
